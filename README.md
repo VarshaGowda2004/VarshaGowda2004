@@ -1,4 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<div id="header" align="center">
+  <img src="https://www.bing.com/th/id/OGC.35cd5fcbb20dfb548ede8db035af646a?pid=1.7&rurl=https%3a%2f%2fuser-images.githubusercontent.com%2f51194584%2f258857674-a1827d5b-af82-45b7-947e-3382f2431c75.gif&ehk=ulqHpHZ3i%2bsHiHLMcvrssbKDPpslxf8SF2wvvzkfU68%3d"  width="200"/>
+</div>
 
 <h1 align="center">Hi 👋, I'm Varsha G R</h1>
 <h3 align="center">A passionate coding enthusiast from India</h3>
